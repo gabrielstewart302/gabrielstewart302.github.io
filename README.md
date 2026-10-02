@@ -1,13 +1,10 @@
-# [Your Name]
-[One or two sentences: what you are studying at RCC, and what
-you want to do with GIS. Write it for a stranger, not for me.]
+Gabriel stewart
+I'm studying emergency management at RCC to find a career in the public service as a fire medic.Im using this GIS class to help me figure out different mapping programs and how to operate/become familiar with them. This class with help me in my career as a lot of what we do comes from mapping. 
 ---
-## [Map 1 title: what the map shows, not "Lab 3"]
-![Short description of the map for screen readers](images/yourfile.png)
-*Interactive version, live as of [Month Year]: [paste public link]*
-*(Delete this line if your map is not a web app.)*
-**Question:** [What geographic question does this map answer?]
-**Data:** [Dataset name, who published it, what year, where you got it.]
+2020 New York City v covid 19 case rates
+![This map shows New York city in 2020 when covid was on the rise. Color coded case rates for each community showing the amount of case saturation and in what area. ](images/Lab2_Layout_stewart.pdf)
+This map answers the geographical question of where this was happening in new york and what was happening covid 19 case rates. It also shows cases as the unit of measure.
+Data: NYC Department of Health and Mental Hygiene; U.S. Census Bureau. Map by Gabriel Stewart 09/04/2026. GEG 8, Riverside City College
 **Method:** [Two or three sentences on what you actually did. Name the
 tools. Someone should be able to follow this.]
 **A design choice I made and why:** [One specific decision. Classification
