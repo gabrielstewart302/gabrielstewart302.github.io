@@ -11,6 +11,9 @@ For this picture we took a map of New York in 2020 using peak covid attributes a
 I decided to color code the case rates by zip code to show what area had the most cases. I also chose a scale of light to dark red to yellow to show the numbers easier for the reader to understand. 
 This map is limited to parts of New York and not any states or surrounding cities. Another limitation is fatalities. Case rates are great but someone wanting to know about covid and New York I think recorded deaths should be a top priority although I doubt anyone would ever give or get official numbers of that. 
 Kilauea Eruption 2018
+
+![alt text](images/kil.jpg)
+
 [Kilauea Eruption 2018 shows what happen in Kilauea during the eruption phase as well as before and the aftermath](https://github.com/gabrielstewart302/gabrielstewart302.github.io/blob/77841a649bf58a3f2144cbf2eb1b72cf0161484b/images/kil.jpg)
 This map answers the geographical question of where this was happening and what was going on. It shows the different stages and the equipment used as these pictures use specialized equipment to be able to see the smoke lava and remains. 
 Landsat-8 image courtesy of the U.S.
