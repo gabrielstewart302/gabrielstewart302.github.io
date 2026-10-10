@@ -3,8 +3,6 @@ Gabriel Stewart
 I'm studying emergency management at RCC to find a career in public service as a fire medic.Im using this GIS class to help me figure out different mapping programs and how to operate/become familiar with them. This class with help me in my career as a lot of what we do comes from mapping. 
 ---
 ![alt text](/images/Lab2_Layout_stewart.png)
-(images/Lab2_Layout_stewart.png)
-[images/Lab2_Layout_stewart.png]
 
 2020 New York City covid 19 case rates[This map shows New York city in 2020 when covid was on the rise. Color coded case rates for each community showing the amount of case saturation and in what area. ](images/Lab2_Layout_stewart.pdf)
 This map answers the geographical question of where this was happening in new York and what was happening covid 19 case rates. It also shows cases as the unit of measure.
@@ -28,4 +26,4 @@ Geological Survey; Kilauea 2018 Lava Flow Extents courtesy of ESRI NASA, ERSI, T
 ## Where this is going
 [One paragraph: what you plan to add to this portfolio by the end
 of the term, and what you want it to say about you.]
-![](path/to/screenshot(2).png)
+![alt text](images/screenshot(2).png)
