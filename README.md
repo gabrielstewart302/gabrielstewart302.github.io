@@ -24,10 +24,23 @@ using landsat8 satellite pictures taken and published online to create layers to
 I used a SWIR Landsat 8 picture to show beneath the smoke that no other camera feature would be able to show or get under to see the area of the lava. I chose this to tract where and how big the area of the lava was . 
 Because I chose this a limitation of the map would be seeing how big the smoke ploom covered over the area obstructing the view from above. 
 ---
+
+<scrpit>https://storymaps.arcgis.com/stories/c451c90795d442a2be01b3015068c48c
+
+
+<scrpit>(https://storymaps.arcgis.com/stories/c451c90795d442a2be01b3015068c48c)
+
+
+<https://storymaps.arcgis.com/stories/c451c90795d442a2be01b3015068c48c>
+
+
+
 Data sources
  NYC Department of Health and Mental Hygiene; U.S. Census Bureau. Map by Gabriel Stewart 09/04/2026. GEG 8, Riverside City College
+ 
 Landsat-8 image courtesy of the U.S.
 Geological Survey; Kilauea 2018 Lava Flow Extents courtesy of ESRI NASA, ERSI, TOMTOM, GARMIN, USGS, FAO,NOAA
-## Where this is going
+
+Where this is going
 [One paragraph: what you plan to add to this portfolio by the end
 of the term, and what you want it to say about you.]
