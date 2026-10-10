@@ -1,10 +1,13 @@
-Gabriel stewart
+Gabriel Stewart
 
 I'm studying emergency management at RCC to find a career in public service as a fire medic.Im using this GIS class to help me figure out different mapping programs and how to operate/become familiar with them. This class with help me in my career as a lot of what we do comes from mapping. 
 ---
-[/images/](Lab2_Layout_stewart.htm)
+![alt text](/images/Lab2_Layout_stewart.png)
+(images/Lab2_Layout_stewart.png)
+[images/Lab2_Layout_stewart.png]
+
 2020 New York City covid 19 case rates[This map shows New York city in 2020 when covid was on the rise. Color coded case rates for each community showing the amount of case saturation and in what area. ](images/Lab2_Layout_stewart.pdf)
-This map answers the geographical question of where this was happening in new york and what was happening covid 19 case rates. It also shows cases as the unit of measure.
+This map answers the geographical question of where this was happening in new York and what was happening covid 19 case rates. It also shows cases as the unit of measure.
 Data: NYC Department of Health and Mental Hygiene; U.S. Census Bureau. Map by Gabriel Stewart 09/04/2026. GEG 8, Riverside City College
 For this picture we took a map of New York in 2020 using peak covid attributes and features. we duplicated layers, renamed copies, added features, and styled them. after that we sorted them by zip code, population density, and case rates to understand what is happening between all the layers we had made. 
 I decided to color code the case rates by zip code to show what area had the most cases. I also chose a scale of light to dark red to yellow to show the numbers easier for the reader to understand. 
