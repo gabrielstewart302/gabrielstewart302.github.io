@@ -2,9 +2,11 @@ Gabriel Stewart
 
 I'm studying emergency management at RCC to find a career in public service as a fire medic.Im using this GIS class to help me figure out different mapping programs and how to operate/become familiar with them. This class with help me in my career as a lot of what we do comes from mapping. 
 ---
+2020 New York City covid 19 case rates
+
 ![alt text](/images/Lab2_Layout_stewart.png)
 
-2020 New York City covid 19 case rates[This map shows New York city in 2020 when covid was on the rise. Color coded case rates for each community showing the amount of case saturation and in what area. ](images/Lab2_Layout_stewart.pdf)
+This map shows New York city in 2020 when covid was on the rise. Color coded case rates for each community showing the amount of case saturation and in what area.
 This map answers the geographical question of where this was happening in new York and what was happening covid 19 case rates. It also shows cases as the unit of measure.
 Data: NYC Department of Health and Mental Hygiene; U.S. Census Bureau. Map by Gabriel Stewart 09/04/2026. GEG 8, Riverside City College
 For this picture we took a map of New York in 2020 using peak covid attributes and features. we duplicated layers, renamed copies, added features, and styled them. after that we sorted them by zip code, population density, and case rates to understand what is happening between all the layers we had made. 
@@ -14,7 +16,7 @@ Kilauea Eruption 2018
 
 ![alt text](images/kil.jpg)
 
-[Kilauea Eruption 2018 shows what happen in Kilauea during the eruption phase as well as before and the aftermath](https://github.com/gabrielstewart302/gabrielstewart302.github.io/blob/77841a649bf58a3f2144cbf2eb1b72cf0161484b/images/kil.jpg)
+Kilauea Eruption 2018 shows what happen in Kilauea during the eruption phase as well as before and the aftermath
 This map answers the geographical question of where this was happening and what was going on. It shows the different stages and the equipment used as these pictures use specialized equipment to be able to see the smoke lava and remains. 
 Landsat-8 image courtesy of the U.S.
 Geological Survey; Kilauea 2018 Lava Flow Extents courtesy of ESRI NASA, ERSI, TOMTOM, GARMIN, USGS, FAO,NOAA
@@ -29,5 +31,3 @@ Geological Survey; Kilauea 2018 Lava Flow Extents courtesy of ESRI NASA, ERSI, T
 ## Where this is going
 [One paragraph: what you plan to add to this portfolio by the end
 of the term, and what you want it to say about you.]
-
-![alt text](images/kil.jpg)
