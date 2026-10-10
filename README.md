@@ -25,4 +25,4 @@ Geological Survey; Kilauea 2018 Lava Flow Extents courtesy of ESRI NASA, ERSI, T
 ## Where this is going
 [One paragraph: what you plan to add to this portfolio by the end
 of the term, and what you want it to say about you.]
-![Alt Text](path/to/screenshot(2).png)
+![](path/to/screenshot(2).png)
