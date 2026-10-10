@@ -25,11 +25,6 @@ I used a SWIR Landsat 8 picture to show beneath the smoke that no other camera f
 Because I chose this a limitation of the map would be seeing how big the smoke ploom covered over the area obstructing the view from above. 
 ---
 
-<scrpit>https://storymaps.arcgis.com/stories/c451c90795d442a2be01b3015068c48c
-
-
-<scrpit>(https://storymaps.arcgis.com/stories/c451c90795d442a2be01b3015068c48c)
-
 
 <https://storymaps.arcgis.com/stories/c451c90795d442a2be01b3015068c48c>
 
@@ -42,5 +37,4 @@ Landsat-8 image courtesy of the U.S.
 Geological Survey; Kilauea 2018 Lava Flow Extents courtesy of ESRI NASA, ERSI, TOMTOM, GARMIN, USGS, FAO,NOAA
 
 Where this is going
-[One paragraph: what you plan to add to this portfolio by the end
-of the term, and what you want it to say about you.]
+I plan to add all of the pictures I can upload into my GitHub but ive been reaching a couple complications I'm working out. Ive been frustrated on trying to upload pictures and finally figured it out. From converting compressing uploading and coding. Redlining chapter photos would be my next workload as I have a couple. I'm still trying to figure out how to add the GIS storybook as I see it as a really great and informative tool to others. I added the link but I want it to be displayed and auto started when visiting my page. I think blocking me is licensing issues i have to verify and make sure I'm using open source licensing as well as Apache 2.0. I want this page to show what I learned in this class about GIS as learned and hand on example provided above. 
